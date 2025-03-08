@@ -5,7 +5,7 @@ Just put in any folder and run the .bat file that will invoke the .ps1 file as a
 
 Detailed .txt report file wil be generated in the same folder.
 
-The reort has the following sections:
+The report has the following sections:
 - System Information
 - BIOS Information
 - Motherboard Information
