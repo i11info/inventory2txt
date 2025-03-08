@@ -1,5 +1,6 @@
-# inventory2txt
-Generate text file with detailed hardware and software list from the system.
+# Windows 10, Windows 11 Inventory list in text format using PowerShell
+
+This script generate nicely formated text file.
 
 Just put in any folder and run the .bat file that will invoke the .ps1 file as administrator.
 
