@@ -1,4 +1,4 @@
-# Windows 10, Windows 11 Inventory list in text format using PowerShell
+# Windows Inventory list in text format using PowerShell
 
 This script generate nicely formated text file.
 
