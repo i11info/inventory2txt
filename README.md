@@ -1,2 +1,2 @@
 # inventory2txt
-Generate text file with hardware and software informations from the current system
+Generate text file with detailed hardware and software list from the system
