@@ -1,6 +1,6 @@
 # Windows Inventory list in text format using PowerShell
 
-This script generate nicely formated text file.
+This script generate report in text format.
 
 Just put in any folder and run the .bat file that will invoke the .ps1 file as administrator.
 
